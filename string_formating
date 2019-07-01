@@ -45,3 +45,7 @@ print("Pi is approximately {0:72.50f}".format(22 / 7))
 
 for i in range(1, 12):
     print("No. {} squared is {} and cubed is {:4}".format(i, i ** 2, i ** 3))
+print("Python was created by Guido van Rossum.")
+print("He's referred to as the BDFL,")
+print('the "Benevolent Dictator For Life"')
+print("and has the final word when it comes to enhancements to Python.")
